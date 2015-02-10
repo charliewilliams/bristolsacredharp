@@ -1,0 +1,14 @@
+
+.jumbotron {
+	background: url("../img/cw_leading.jpg");
+	color:white;
+	box-shadow: 5px 5px 15px #444;
+	text-shadow: 1px 1px 5px #444;
+}
+
+.alldayjumbo {
+	background: url("../img/steve_liam.jpg");
+	background-size: 100%;
+	max-width: 100%;
+	max-height: auto;
+}
