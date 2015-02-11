@@ -11,6 +11,17 @@
 
     <title>Bristol Sacred Harp</title>
 
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script>
+        $.get('index.html', function(data) { $('#header').html(data); });
+        // jQuery(function(){
+        // jQuery('.header').load('index.html #header');
+        // jQuery('.footer').load('footer.html #footer');
+    // });
+    </script>
+
+
+
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -30,29 +41,7 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index.html">Home</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <li>
-                        <a href="allday.html">2015 All-Day Singing</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
+    <nav id="header">
     </nav>
 
     <!-- Page Content -->

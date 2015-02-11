@@ -14,10 +14,10 @@
 }
 
 .twitter-timeline {
-	float: right;
+	/*float: right;
 	display: inline-block;
 	right: 0px;
-	top: auto;
+	top: auto;*/
 }
 
 .twitter-button {
@@ -27,6 +27,6 @@
 }
 
 .calendar {
-	float:right;
-	display: inline-block;
+	/*float:right;*/
+	/*display: inline-block;*/
 }
