@@ -12,3 +12,21 @@
 	max-width: 100%;
 	max-height: auto;
 }
+
+.twitter-timeline {
+	float: right;
+	display: inline-block;
+	right: 0px;
+	top: auto;
+}
+
+.twitter-button {
+	padding-top: 15px;
+	padding-right: 0px;
+	float: right;
+}
+
+.calendar {
+	float:right;
+	display: inline-block;
+}
