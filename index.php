@@ -1,7 +1,4 @@
-<?php
-## get page variable 
-## $page = $_GET['page'];
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -14,9 +11,9 @@
 
     <title><?php
     if ($page == 'allday'){
-    echo "Bristol All-Day Singing | ";
+    echo 'Bristol All-Day Singing | ';
     } elseif ($page == 'gwehelog') {
-    echo "Gwehelog All-Day Singing | ";
+    echo 'Gwehelog All-Day Singing | ';
     }
     ?>Bristol Sacred Harp</title>
 
@@ -103,12 +100,12 @@
 
         </div>
 
-            <?php 
-            if(!$page){
-            	include 'home.php';
-            }else{
-				include "$page.php";
-			}?>
+        <?php 
+        if(!$page){
+         	include 'home.php';
+        }else{
+		include "$page.php";
+	}?>
 
         <!-- Footer -->
         <footer>
