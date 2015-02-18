@@ -2,8 +2,9 @@
 .jumbotron {
 	background: url("../img/cw_leading.jpg");
 	color:white;
+	/* do not like
 	box-shadow: 5px 5px 15px #444;
-	text-shadow: 1px 1px 5px #444;
+	text-shadow: 1px 1px 5px #444; */
 }
 
 .alldayjumbo {
@@ -27,6 +28,63 @@
 }
 
 .calendar {
+<<<<<<< HEAD
 	/*float:right;*/
 	/*display: inline-block;*/
 }
+=======
+	/* display:none; temporarily hide*/
+	float:right;
+	display: inline-block;
+}
+
+/* remove rounded corners on nav */
+.navbar {
+    border-radius: 0px;
+    }
+    
+/* main container background colour */
+body > div.container{
+	background-color: #fff; 
+/*	border-top: 3px solid; */
+}
+
+/* more padding for main content */
+.col-lg-7 {
+	padding-left: 30px;
+}
+
+/* make the maximum width less */
+@media (min-width:1200px){
+	.container{
+		width:970px;
+	}
+}
+
+body {
+    padding-top: 0px;
+    background-color: #eee;
+}
+
+#toplogo{
+	text-align: center;
+	color: #000;
+	/*this will need a webfont installation */
+	font-family: Plathorn;
+	font-size: 24pt;
+}
+/* logo text size on screens */
+@media (min-width:400px){
+	#toplogo{
+		font-size: 30pt;
+	}
+}
+@media (min-width:600px){
+	#toplogo{
+		font-size: 48pt;
+	}
+}
+.page-header{
+	border-bottom: none;
+}
+>>>>>>> e4d265a7b419bfa803ceeee8145c5b34668f37a3
