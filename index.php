@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<?php
+## get page variable 
+$page = $_GET['page'];
+?><!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -10,7 +13,7 @@
     <meta name="author" content="">
 
     <title><?php
-    if ($page == 'allday'){
+    if ($page == 'allday') {
     echo 'Bristol All-Day Singing | ';
     } elseif ($page == 'gwehelog') {
     echo 'Gwehelog All-Day Singing | ';
@@ -55,7 +58,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Home</a>
+                <a class="navbar-brand" href="index.php">Home</a>
             </div>
 
             <!-- Right-hand Twitter button -->
