@@ -47,7 +47,7 @@ body > div.container{
 }
 
 /* more padding for main content */
-.col-lg-7 {
+.col-lg-7, .col-lg-12 {
 	padding-left: 30px;
 }
 
