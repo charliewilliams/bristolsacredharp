@@ -108,7 +108,9 @@ $page = $_GET['page'];
         </div>
         <!-- /.container -->
     </nav>
-		
+		<?php 
+        if(!$page){
+        ?>
 		<!-- Right column -->
         <div class="pull-right col-lg-4">
             <!-- Facebook -->
@@ -128,8 +130,7 @@ $page = $_GET['page'];
 
         </div>
 
-        <?php 
-        if(!$page){
+        <?php
          	include 'home.php';
         }else{
     		include "$page.php";
