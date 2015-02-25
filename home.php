@@ -13,9 +13,9 @@
                 Easton, Bristol BS5 6HX</s>.</p>
                 <div class="alert alert-danger" role="alert">
                 	<p><strong>Venue change!</strong> 
-                	From 24 February to 17 March inclusive, we will sing from 7:30&ndash;9:30pm at 
-                	<address>the <strong>Benjamin Perry Boathouse</strong> Phoenix Wharf, Lower Guinea Street, 
-                	Bristol BS1 6TJ</address>. 
+                	From 24 February to 17 March inclusive, we will sing from 7:30&ndash;9:30pm at:
+                	<address><strong>The Benjamin Perry Boathouse</strong>, Phoenix Wharf, Lower Guinea Street, 
+                	Bristol BS1 6TJ.</address>
                 	<a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
               		</p>
                 </div>
