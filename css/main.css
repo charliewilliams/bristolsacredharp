@@ -28,11 +28,8 @@
 }
 
 .calendar {
-<<<<<<< HEAD
 	/*float:right;*/
 	/*display: inline-block;*/
-}
-=======
 	/* display:none; temporarily hide*/
 	float:right;
 	display: inline-block;
@@ -69,8 +66,7 @@ body {
 #toplogo{
 	text-align: center;
 	color: #000;
-	/*this will need a webfont installation */
-	font-family: Plathorn;
+	font-family: Plathorn-NorMed;
 	font-size: 24pt;
 }
 /* logo text size on screens */
@@ -84,7 +80,8 @@ body {
 		font-size: 48pt;
 	}
 }
+
+/* header has an underline by default - remove it */
 .page-header{
 	border-bottom: none;
 }
->>>>>>> e4d265a7b419bfa803ceeee8145c5b34668f37a3
