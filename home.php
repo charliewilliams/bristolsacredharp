@@ -9,16 +9,11 @@
                 tradition from the United States. It takes its name from the 
                 <a href="http://en.wikipedia.org/wiki/Shape_note">shape note</a> book that we sing from.</p>
                 <h3>Sing with us</h3>
-                <p>We sing <strong>every Tuesday</strong> <s>from 7&ndash;9pm at St Mark's Baptist Church, 
-                Easton, Bristol BS5 6HX</s>.</p>
-                <div class="alert alert-danger" role="alert">
-                	<p><strong>Venue change!</strong> 
-                	From 24 February to 17 March inclusive, we will sing from 7:30&ndash;9:30pm at:
-                	<address><strong>The Benjamin Perry Boathouse</strong>, Phoenix Wharf, Lower Guinea Street, 
-                	Bristol BS1 6TJ.</address>
-                	<a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
-              		</p>
-                </div>
+                <p>We sing <strong>every Tuesday</strong> from 7:15&ndash;9:30pm at <strong>The Benjamin Perry Boathouse</strong>,
+                 Phoenix Wharf, Lower Guinea Street, Bristol BS1 6TJ.
+                <a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
+              	</p>
+                
                 <p><strong>Everyone is welcome.</strong> We are not a choir: no-one is in charge, we don't rehearse,
                 and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment.
                 You don't need to be able to read music, although you will start to.
