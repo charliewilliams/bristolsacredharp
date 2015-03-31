@@ -1,6 +1,4 @@
-		<!-- Title -->
-        <div class="row">
-            <div class="col-lg-7">
+            <div class="col-lg-8">
             	<img src="img/cw_leading.jpg" class="img-responsive" />
 		
 		<hr />
@@ -38,5 +36,3 @@
                 <a href="http://londonsacredharp.bandcamp.com/album/7th-annual-london-all-day-singing-25-oct-2014">2014 London All-Day Singing</a>
                 is a good example of current UK singing.</p>
             </div>
-        </div>
-        <!-- /.row -->
