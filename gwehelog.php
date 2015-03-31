@@ -1,6 +1,6 @@
 		<!-- Title -->
         <div class="row">
-            <div class="col-lg-12">  
+            <div class="col-lg-8">  
                 <p>The 16th South Wales Singing in Gwehelog, Usk will be held on <strong>Sat 18 July 2015</strong>.</p>
                 <p></p>
                 <h3>Previous minutes</h3>
