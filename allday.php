@@ -1,6 +1,6 @@
         <!-- Title -->
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-8">
                 <p>The second annual All-Day Singing in Bristol will be held on <strong>Sat 9 May 2015</strong>.</p>
                 <p>Registration at 10am for a <strong>10:30am start</strong>.</p>
                 
