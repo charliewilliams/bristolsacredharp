@@ -108,18 +108,24 @@ $page = $_GET['page'];
         </div>
         <!-- /.container -->
     </nav>
-		<?php 
+    <div class="row">    
+	<!-- Main content -->
+        <?php
         if(!$page){
-        ?>
-		<!-- Right column -->
-        <div class="pull-right col-lg-4">
+         	include 'home.php';
+        }else{
+    		include "$page.php";
+    	}?>
+    	
+	<!-- Right column -->
+        <div class="col-lg-4">
             <!-- Facebook -->
             <div>
                 <p>Keep up with discussions in our <a href="https://www.facebook.com/groups/bristolsacredharp/">Facebook Group</a>.</p>
             </div>
             <!-- Calendar -->
             <div class="calendar">
-                <iframe src="https://www.google.com/calendar/embed?title=Calendar%20of%20Singings&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=bristolsacredharp%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="350" height="300" frameborder="0" scrolling="no"></iframe>
+                <iframe src="https://www.google.com/calendar/embed?title=Calendar%20of%20Singings&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=252&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=bristolsacredharp%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="294" height="252" frameborder="0" scrolling="no"></iframe>
             </div>
 
 
@@ -129,12 +135,8 @@ $page = $_GET['page'];
             </div>
 
         </div>
+    </div>
 
-        <?php
-         	include 'home.php';
-        }else{
-    		include "$page.php";
-    	}?>
 
         <!-- Footer -->
         <footer>
