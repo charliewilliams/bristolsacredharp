@@ -1,5 +1,3 @@
-		<!-- Title -->
-        <div class="row">
             <div class="col-lg-8">  
                 <p>The 16th South Wales Singing in Gwehelog, Usk will be held on <strong>Sat 18 July 2015</strong>.</p>
                 <p></p>
@@ -17,5 +15,3 @@
                   <li><a href="http://www.ukshapenote.org.uk/Gwehelog/GWH1999/gwh1999-1.htm">1st South Wales Singing - 1999</a>. Chair: Ken Baddley.</li>
                 </ul>
             </div>
-        </div>
-        <!-- /.row -->
