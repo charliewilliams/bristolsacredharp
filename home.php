@@ -7,6 +7,15 @@
                 tradition from the United States. It takes its name from the 
                 <a href="http://en.wikipedia.org/wiki/Shape_note">shape note</a> book that we sing from.</p>
                 <h3>Sing with us</h3>
+
+                <div class="alert alert-danger" role="alert">
+                    <p><strong>Temporary venue change!</strong> 
+-                   On Tuesday 14 April ONLY, we will sing from 7:00&ndash;9:00pm at St Mark's Baptist Church, 
+                    Easton, Bristol BS5 6HX</s>.</p>
+                 </div>
+
+
+
                 <p>We sing <strong>every Tuesday</strong> from 7:15&ndash;9:30pm at <strong>The Benjamin Perry Boathouse</strong>,
                  Phoenix Wharf, Lower Guinea Street, Bristol BS1 6TJ.
                 <a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
