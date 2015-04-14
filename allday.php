@@ -26,6 +26,21 @@
                 <h4>By car</h4>
                 <p>Leave the M5 at junction 18. There is on-street parking on Station Rd outside the venue.</p>
                 
+                <h3>Singing School</h3>
+                <p>A beginners' singing school will be taught on <strong>Friday 8 May</strong> by Erin Johnson-Hill. 
+                Erin started singing Sacred Harp in New Haven, CT, and now lives and sings in London.<br/>
+                7&ndash;9pm. <strong>St Mark's Baptist Church</strong>, St Marks Road, Easton, Bristol, BS5 6HX.</p>
+			
+                <h3>Social</h3>
+                <p>We will meet for a social after the singing on Saturday, around 8pm, at 
+                <strong>Cafe Kino</strong>, 108 Stokes Croft, Bristol, BS1 3RU.</p>
+                
+                <h3>Sunday Singing</h3>
+                <p>Please join us for an alternative sources singing and lunch at Bailbrook Sunday School, Bath Spa. 
+                Best reached by car, or a taxi from Bath Spa station. Books likely to be Christian Harmony and Shenandoah Harmony,
+                or bring your own. Ask at the singing for more information.<br/>
+                From 1pm, <strong>Sunday 10 May</strong>.</p>
+                
                 <h3>Accommodation</h3>
                 <p>If you'd like to request being hosted by local singers, please email
                 <a href="mailto:bristolsacredharp@gmail.com?subject=Accommodation">bristolsacredharp@gmail.com</a>.
