@@ -128,6 +128,10 @@ $page = $_GET['page'];
                 <iframe src="https://www.google.com/calendar/embed?title=Calendar%20of%20Singings&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=252&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=bristolsacredharp%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="294" height="252" frameborder="0" scrolling="no"></iframe>
             </div>
 
+            <!-- Bandcamp -->
+            <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1277457523/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless>
+                <a href="http://bristolsacredharp.bandcamp.com/album/second-bristol-all-day-singing">Second Bristol All-Day Singing by Bristol Sacred Harp</a>
+            </iframe>
 
             <!-- Tweets -->
             <div class="twitter">
