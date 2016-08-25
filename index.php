@@ -17,6 +17,8 @@ $page = $_GET['page'];
     echo 'Bristol All-Day Singing | ';
     } elseif ($page == 'gwehelog') {
     echo 'Gwehelog All-Day Singing | ';
+    } elseif ($page == 'convention') {
+    echo 'UK Sacred Harp Convention | ';
     }
     ?>Bristol Sacred Harp</title>
 
@@ -51,7 +53,6 @@ $page = $_GET['page'];
 	
 	-->
 	<link rel="stylesheet" type="text/css" href="MyFontsWebfontsKit.css">
-
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -102,6 +103,9 @@ $page = $_GET['page'];
                     <li>
                         <a href="index.php?page=gwehelog">Gwehelog All-Day Singing</a>
                     </li>
+                    <li>
+                        <a href="index.php?page=convention">2016 UK Convention</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -109,17 +113,19 @@ $page = $_GET['page'];
         </div>
         <!-- /.container -->
     </nav>
-    <div class="row">    
-	<!-- Main content -->
-        <?php
-        if(!$page){
-         	include 'home.php';
-        }else{
-    		include "$page.php";
-    	}?>
-    	
+    <div class="row main-box">  
+		<!-- Main content -->
+        <div class="col-lg-8 page-content">
+
+        	<?php
+        	if(!$page){
+         		include 'home.php';
+        	}else{
+    			include "$page.php";
+    		}?>
+    	</div>
 	<!-- Right column -->
-        <div class="col-lg-4">
+        <div class="col-lg-4 sidebar">
             <!-- Facebook -->
             <div>
                 <p>Keep up with discussions in our <a href="https://www.facebook.com/groups/bristolsacredharp/">Facebook Group</a>.</p>
@@ -141,6 +147,7 @@ $page = $_GET['page'];
 
         </div>
     </div>
+
 
         <!-- Footer -->
         <footer>

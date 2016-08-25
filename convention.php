@@ -1,0 +1,2 @@
+                <p>In 2016, we will host singers from all over the UK, Europe and around the world at the 21st UK Sacred Harp Convention.</p>
+                <p>For more information, please visit the <a href="http://ukshc.org/">UK Sacred Harp Convention</a> website.

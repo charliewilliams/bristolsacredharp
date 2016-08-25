@@ -1,4 +1,4 @@
-            <div class="col-lg-8">
+		
             	<img src="img/cw_leading.jpg" class="img-responsive" />
 		
 		<hr />
@@ -7,10 +7,9 @@
                 tradition from the United States. It takes its name from the 
                 <a href="http://en.wikipedia.org/wiki/Shape_note">shape note</a> book that we sing from.</p>
                 <h3>Sing with us</h3>
-                <p>We sing <strong>every Tuesday</strong> from 7:15&ndash;9:30pm at <strong>The Benjamin Perry Boathouse</strong>,
-                 Phoenix Wharf, Lower Guinea Street, Bristol BS1 6TJ.
-                <a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
-              	</p>
+                <p>We sing <strong>every Tuesday</strong> from 7&ndash;9pm at <strong>The Benjamin Perry Boathouse</strong>, Phoenix Wharf, Lower Guinea Street, 
+                	Bristol BS1 6TJ. <a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
+                </p>
                 
                 <p><strong>Everyone is welcome.</strong> We are not a choir: no-one is in charge, we don't rehearse,
                 and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment.
@@ -35,4 +34,3 @@
                 and the <a href="http://originalsacredharp.com/museum/national-convention/">1980 First National Convention</a>. The 
                 <a href="http://londonsacredharp.bandcamp.com/album/7th-annual-london-all-day-singing-25-oct-2014">2014 London All-Day Singing</a>
                 is a good example of current UK singing.</p>
-            </div>
