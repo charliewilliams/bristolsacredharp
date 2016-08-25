@@ -1,4 +1,3 @@
-
 .jumbotron {
 	background: url("../img/cw_leading.jpg");
 	color:white;
@@ -12,6 +11,10 @@
 	background-size: 100%;
 	max-width: 100%;
 	max-height: auto;
+}
+
+.feature-img {
+	margin-bottom: 3em;
 }
 
 .twitter-timeline {
@@ -47,8 +50,28 @@ body > div.container{
 }
 
 /* more padding for main content */
-.col-lg-7, .col-lg-12 {
-	padding-left: 30px;
+.main-box {
+	margin-top: 40px;
+}
+
+.page-content {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.page-content h3 {
+	margin-top: 1.5em;
+	margin-bottom: .6em;
+}
+
+/*fixes some placement issues with inline google calendar */
+.calendar{
+	width:100%;
+}
+
+.sidebar div {
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 
 /* make the maximum width less */
