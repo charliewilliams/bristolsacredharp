@@ -1,19 +1,19 @@
             <img src="img/gwehelog-chapel.jpg" class="img-responsive" />
 		
 		<hr />
-                <p>The 17th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
-                 held on <strong>Sat 16</strong> and <strong>Sun 17 July 2016</strong>.</p>
+                <p>The 18th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
+                 held on <strong>Sat 15</strong> and <strong>Sun 16 July 2017</strong>.</p>
                  
-                 <p><strong>Saturday 16 July</strong><br />
+                 <p><strong>Saturday 15 July</strong><br />
                  Sacred Harp all-day singing (1991 edition).<br />
                  10:00am to 3:30pm.</p>
                  
-                 <p><strong>Sunday 17 July</strong><br />
+                 <p><strong>Sunday 16 July</strong><br />
                  Christian Harmony all-day singing (2010 edition).<br />
-                 10:30am to 3:30pm.</p>
+                 10:00am to 3:00pm.</p>
                 
                 <p>Co-Chairs<br />
-                <strong>Leila Gamaz and Ellen Southern</strong></p>
+                <strong>Steve Brett and Ella Cumber</strong></p>
                 
                 <h3>Venue</h3>
                 <address>
@@ -34,12 +34,13 @@
                 
                 <h3>Previous minutes</h3>
                 <ul>
+                  <li><a href="http://fasola.org/minutes/search/?n=5080">17th Gwehelog Singing Weekend &ndash; 2016</a>. Chairs: Leila Gamaz and Ellen Southern.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=4788">16th Gwehelog Singing Weekend &ndash; 2015</a>. Chair: Liam Kirby.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=4507">15th Gwehelog Singing Weekend &ndash; 2014</a>. Chair: Chris Brown.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=4216">14th Gwehelog Singing Weekend &ndash; 2013</a>. Chair: Chris Brown.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=3933">13th South Wales Singing &ndash; 2012</a>. Chair: Chris Brown.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=3650">12th South Wales Singing &ndash; 2011</a>. Chair: Chris Brown.</li>
-                  <li><a href="http://fasola.org/minutes/search/?n=3385">10th South Wales Singing &ndash; 2010</a>. Chair: Judy Whiting.</li>
+                  <li><a href="http://fasola.org/minutes/search/?n=3385">11th South Wales Singing &ndash; 2010</a>. Chair: Judy Whiting.</li>
                   <li><a href="http://www.ukshapenote.org.uk/Gwehelog/GWH2003/gwh2003.htm">5th South Wales Singing &ndash; 2003</a>. Chair: Ken Baddley.</li>
                   <li><a href="http://www.ukshapenote.org.uk/Gwehelog/GWH2002/gwh2002.htm">4th South Wales Singing &ndash; 2002</a>. Chair: Ken Baddley.</li>
                   <li><a href="http://www.ukshapenote.org.uk/Gwehelog/GWH2001/gwh2001-1.htm">3rd South Wales Singing &ndash; 2001</a>. Chair: Ken Baddley.</li>
