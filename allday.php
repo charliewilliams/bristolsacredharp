@@ -57,7 +57,7 @@
 			-->
 
                 <h3>Accommodation</h3>
-                <p>Accommodation with local singers will be available soon.
+                <p>Accommodation with local singers will be available soon.</p>
                   <!--
                 <p>Accommodation is available with local singers. Please use this <a href="">accommodation form</a> to sign up.
                 We'd be very happy to host you! Otherwise, there are many hotel and Airbnb options in Bristol. For further information, you can email <a href="mailto:bristolsacredharp@gmail.com">bristolsacredharp@gmail.com</a>.</p>
@@ -65,7 +65,7 @@
               -->
                 <h3>Previous minutes</h3>
                 <ul>
-                  <li><a href="http://fasola.org/minutes/search/?n=5615">5th Bristol Singing &ndash; 2018</a>. Chair: Samantha Cole.</li>              
+                  <li><a href="http://fasola.org/minutes/search/?n=5615">5th Bristol Singing &ndash; 2018</a>. Chair: Samantha Cole.</li>
                 	<li><a href="http://fasola.org/minutes/search/?n=5316">4th Bristol Singing &ndash; 2017</a>. Chair: Kate Kirwan.</li>
                 	<li><a href="http://fasola.org/minutes/search/?n=5017">3rd Bristol Singing &ndash; 2016</a>. Chair: Barry Parsons.</li>
                 	<li><a href="http://fasola.org/minutes/search/?n=4724">2nd Bristol Singing &ndash; 2015</a>. Chair: Steve Brett.</li>
