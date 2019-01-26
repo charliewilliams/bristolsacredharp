@@ -136,8 +136,8 @@ $page = $_GET['page'];
             </div>
 
             <!-- Bandcamp -->
-            <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1277457523/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless>
-                <a href="http://bristolsacredharp.bandcamp.com/album/second-bristol-all-day-singing">Second Bristol All-Day Singing by Bristol Sacred Harp</a>
+            <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=967320061/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless>
+            	<a href="http://bristolsacredharp.bandcamp.com/album/fourth-bristol-all-day-singing">Fourth Bristol All-Day Singing by Bristol Sacred Harp</a>
             </iframe>
 
             <!-- Tweets -->
@@ -153,6 +153,7 @@ $page = $_GET['page'];
         <footer>
             <div class="row">
                 <div class="col-lg-12">
+                <p>Contact: <a href="mailto:bristolsacredharp@gmail.com">bristolsacredharp@gmail.com</a></p>
                     <!-- <p>Copyright &copy; Your Website 2014</p> -->
                 </div>
             </div>
