@@ -1,5 +1,5 @@
 <?php
-## get page variable 
+## get page variable
 $page = $_GET['page'];
 ?><!DOCTYPE html>
 <html lang="en">
@@ -28,29 +28,29 @@ $page = $_GET['page'];
     <!-- Custom CSS -->
     <link href="css/heroic-features.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
-    
+
     <!--
 	/**
 	 * @license
 	 * MyFonts Webfont Build ID 2975041, 2015-02-18T13:43:23-0500
-	 * 
+	 *
 	 * The fonts listed in this notice are subject to the End User License
-	 * Agreement(s) entered into by the website owner. All other parties are 
+	 * Agreement(s) entered into by the website owner. All other parties are
 	 * explicitly restricted from using the Licensed Webfonts(s).
-	 * 
+	 *
 	 * You may obtain a valid license at the URLs below.
-	 * 
+	 *
 	 * Webfont: Plathorn-NorMed by insigne
 	 * URL: http://www.myfonts.com/fonts/insigne/plathorn/medium/
 	 * Copyright: Copyright (c) 2014 by Jeremy Dooley. All rights reserved.
 	 * Licensed pageviews: 10,000
-	 * 
-	 * 
+	 *
+	 *
 	 * License: http://www.myfonts.com/viewlicense?type=web&buildid=2975041
-	 * 
+	 *
 	 * © 2015 MyFonts Inc
 	*/
-	
+
 	-->
 	<link rel="stylesheet" type="text/css" href="MyFontsWebfontsKit.css">
 
@@ -67,7 +67,7 @@ $page = $_GET['page'];
 
     <!-- Page Content -->
     <div class="container">
-    
+
     <header class="page-header">
         <h1 id="toplogo">Bristol Sacred Harp</h1>
     </header>
@@ -104,16 +104,16 @@ $page = $_GET['page'];
                         <a href="index.php?page=gwehelog">Gwehelog All-Day Singing</a>
                     </li>
                     <li>
-                        <a href="index.php?page=convention">2016 UK Convention</a>
+                        <a href="index.php?page=convention">2019 UK Convention</a>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
-            
+
         </div>
         <!-- /.container -->
     </nav>
-    <div class="row main-box">  
+    <div class="row main-box">
 		<!-- Main content -->
         <div class="col-lg-8 page-content">
 
