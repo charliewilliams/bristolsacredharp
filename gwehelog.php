@@ -1,19 +1,19 @@
             <img src="img/gwehelog-chapel.jpg" class="img-responsive" />
 		
 		<hr />
-                <p>The 18th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
-                 held on <strong>Sat 15</strong> and <strong>Sun 16 July 2017</strong>.</p>
+                <p>The 19th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
+                 held on <strong>Sat 14</strong> and <strong>Sun 15 July 2018</strong>.</p>
                  
-                 <p><strong>Saturday 15 July</strong><br />
+                 <p><strong>Saturday 14 July</strong><br />
                  Sacred Harp all-day singing (1991 edition).<br />
                  10:00am to 3:30pm.</p>
                  
-                 <p><strong>Sunday 16 July</strong><br />
+                 <p><strong>Sunday 15 July</strong><br />
                  Christian Harmony all-day singing (2010 edition).<br />
                  10:00am to 3:00pm.</p>
                 
-                <p>Co-Chairs<br />
-                <strong>Steve Brett and Ella Cumber</strong></p>
+                <p>Chair<br />
+                <strong>Alec Williams</strong></p>
                 
                 <h3>Venue</h3>
                 <address>
@@ -34,6 +34,7 @@
                 
                 <h3>Previous minutes</h3>
                 <ul>
+                  <li><a href="http://fasola.org/minutes/search/?n=5376">18th Gwehelog Singing Weekend &ndash; 2017</a>. Chairs: Steve Brett and Ella Cumber.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=5080">17th Gwehelog Singing Weekend &ndash; 2016</a>. Chairs: Leila Gamaz and Ellen Southern.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=4788">16th Gwehelog Singing Weekend &ndash; 2015</a>. Chair: Liam Kirby.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=4507">15th Gwehelog Singing Weekend &ndash; 2014</a>. Chair: Chris Brown.</li>
