@@ -1,2 +1,2 @@
 # bristolsacredharp
-Website for the Bristol Sacred Harp shout-singing group.
+Website for the Bristol Sacred Harp singing group.
