@@ -1,4 +1,4 @@
-                <img src="img/ukshc2016.jpg" class="img-responsive" />
+                <img src="/img/ukshc2016.jpg" class="img-responsive" />
 
                 <hr />
 

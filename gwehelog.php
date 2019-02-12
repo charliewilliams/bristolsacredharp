@@ -1,4 +1,4 @@
-            <img src="img/gwehelog-chapel.jpg" class="img-responsive" />
+            <img src="/img/gwehelog-chapel.jpg" class="img-responsive" />
 
 		<hr />
                 <p>The 20th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,

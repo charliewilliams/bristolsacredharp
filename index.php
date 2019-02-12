@@ -23,11 +23,11 @@ $page = $_GET['page'];
     ?>Bristol Sacred Harp</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/heroic-features.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+    <link href="/css/heroic-features.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 
     <!--
 	/**
@@ -52,7 +52,7 @@ $page = $_GET['page'];
 	*/
 
 	-->
-	<link rel="stylesheet" type="text/css" href="MyFontsWebfontsKit.css">
+	<link rel="stylesheet" type="text/css" href="/MyFontsWebfontsKit.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -85,7 +85,7 @@ $page = $_GET['page'];
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Home</a>
+                <a class="navbar-brand" href="/">Home</a>
             </div>
 
             <!-- Right-hand Twitter button -->
@@ -98,13 +98,13 @@ $page = $_GET['page'];
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index.php?page=allday">Bristol All-Day Singing</a>
+                        <a href="/allday/">Bristol All-Day Singing</a>
                     </li>
                     <li>
-                        <a href="index.php?page=gwehelog">Gwehelog All-Day Singing</a>
+                        <a href="/gwehelog/">Gwehelog All-Day Singing</a>
                     </li>
                     <li>
-                        <a href="index.php?page=convention">2019 UK Convention</a>
+                        <a href="/convention/">2019 UK Convention</a>
                     </li>
                 </ul>
             </div>
@@ -163,10 +163,10 @@ $page = $_GET['page'];
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
 
 </body>
 

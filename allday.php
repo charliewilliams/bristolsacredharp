@@ -1,4 +1,4 @@
-            	<img src="img/2015allday.jpg" class="img-responsive" />
+            	<img src="/img/2015allday.jpg" class="img-responsive" />
 
 				<hr />
 
