@@ -50,10 +50,11 @@
         				<p>The Greenbank serves a wide variety of wines, ales and craft beers, as well as wood-fired pizza and other meals.</p>
 
         				<h3>Sunday singing</h3>
-        				<p>Please join us for a Christian Harmony singing from 2pm at </p>
+        				<p>Please join us for a Christian Harmony singing from 2&ndash;4pm at: </p>
                 <p><strong><a href="http://www.stanneschurchbristol.org.uk">St. Anne's Church Hall</a></strong>,<br/>
         				St Leonards Road,<br/>
         				Bristol, BS5 6JN.</p>
+                <p>Some loaner books will be available to use.</p>
 
                 <h3>Accommodation</h3>
                 <p>Accommodation is available with local singers. Please use this <a href="https://goo.gl/forms/5P89xRc7U3ro8q2z1">accommodation form</a> to sign up.
