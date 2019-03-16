@@ -8,7 +8,7 @@
                 <a href="http://en.wikipedia.org/wiki/Shape_note">shape note</a> book that we sing from.</p>
                 <h3>Sing with us</h3>
                 <p>We sing <strong>every Tuesday</strong> from 7&ndash;9pm at <strong>The Benjamin Perry Boathouse</strong>, Phoenix Wharf, Lower Guinea Street,
-                	Bristol BS1 6TJ. <a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">[directions]</a>
+                	Bristol BS1 6TJ. <a href="https://goo.gl/maps/ajycuowpbAu">[map]</a>
                 </p>
 
                 <p><strong>Everyone is welcome.</strong> We are not a choir: no-one is in charge, we don't rehearse,
