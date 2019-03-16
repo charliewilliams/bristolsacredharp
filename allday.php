@@ -35,34 +35,30 @@
                 <p>Leave the M4 at junction 19 onto the M32. Take the first exit at junction 1 onto the A4174, then the first right
                 onto Bristol Rd and then the first left onto Beckspool Rd. There is on-street parking on Beckspool Rd outside the venue.</p>
 
-                <!--
                 <h3>Friday singing</h3>
                 <p>If you're around on Friday, please join us for a composium, singing new compositions in the Sacred Harp style.<br/>
-				This will be from 7&ndash;9pm at our usual weekly singing venue: </p>
-				<p><strong><a href="http://www.avonscouts.org.uk/activity-adventure/campsites-and-activity-centres/benjamin-perry-boathouse/find-the-boathouse/">The Benjamin Perry Boathouse</a></strong>,<br/>
-				Phoenix Wharf, Lower Guinea Street, <br/>
-				Bristol, BS1 6TJ.</p>
+        				This will be from 7&ndash;9pm at our usual weekly singing venue: </p>
+        				<p><strong><a href="https://goo.gl/maps/ajycuowpbAu">The Benjamin Perry Boathouse</a></strong>,<br/>
+        				Phoenix Wharf, Lower Guinea Street, <br/>
+        				Bristol, BS1 6TJ.</p>
 
-				<h3>Saturday social</h3>
-				<p>We will meet for a social at 8pm after the singing on Saturday at: </p>
-				<p><strong><a href="https://thegreenbankbristol.co.uk/">The Greenbank</a></strong>,<br/>
-				57 Bellevue Road,<br/>
-				 Bristol, BS5 6DP.</p>
-				<p>The Greenbank serves a wide variety of wines, ales and craft beers, as well as wood-fired pizza and other meals.</p>
+        				<h3>Saturday social</h3>
+        				<p>We will meet for a social at 7pm after the singing on Saturday at: </p>
+        				<p><strong><a href="https://thegreenbankbristol.co.uk/">The Greenbank</a></strong>,<br/>
+        				57 Bellevue Road,<br/>
+        				 Bristol, BS5 6DP.</p>
+        				<p>The Greenbank serves a wide variety of wines, ales and craft beers, as well as wood-fired pizza and other meals.</p>
 
-
-				<h3>Sunday singing</h3>
-				<p>Please join us for a casual Christian Harmony singing and lunch from 2pm at Bailbrook Sunday School, Bath Spa.
-				Best reached by car, or a taxi from Bath Spa station. Ask at the singing for more information.</p>
-			-->
+        				<h3>Sunday singing</h3>
+        				<p>Please join us for a Christian Harmony singing from 2pm at </p>
+                <p><strong><a href="http://www.stanneschurchbristol.org.uk">St. Anne's Church Hall</a></strong>,<br/>
+        				St Leonards Road,<br/>
+        				Bristol, BS5 6JN.</p>
 
                 <h3>Accommodation</h3>
-                <p>Accommodation with local singers will be available soon.</p>
-                  <!--
-                <p>Accommodation is available with local singers. Please use this <a href="">accommodation form</a> to sign up.
+                <p>Accommodation is available with local singers. Please use this <a href="https://goo.gl/forms/5P89xRc7U3ro8q2z1">accommodation form</a> to sign up.
                 We'd be very happy to host you! Otherwise, there are many hotel and Airbnb options in Bristol. For further information, you can email <a href="mailto:bristolsacredharp@gmail.com">bristolsacredharp@gmail.com</a>.</p>
 
-              -->
                 <h3>Previous minutes</h3>
                 <ul>
                   <li><a href="http://fasola.org/minutes/search/?n=5615">5th Bristol Singing &ndash; 2018</a>. Chair: Samantha Cole.</li>
