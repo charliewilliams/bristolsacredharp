@@ -13,7 +13,7 @@
 
                 <p><strong>Everyone is welcome.</strong> We are not a choir: no-one is in charge, we don't rehearse,
                 and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment.
-                You don't need to be able to read music, although you will start to.
+                You don't need to be able to read music, although by singing with us you will naturally start to learn.
                 Any week is good for you to begin &mdash; just turn up!</p>
 
                 <!--- <h3>History</h3>
