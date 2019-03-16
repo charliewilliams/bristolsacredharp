@@ -4,11 +4,11 @@
                 <p>The 20th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
                  held on <strong>Sat 20</strong> and <strong>Sun 21 July 2019</strong>.</p>
 
-                 <p><strong>Saturday 14 July</strong><br />
+                 <p><strong>Saturday 20 July</strong><br />
                  Sacred Harp all-day singing (1991 edition).<br />
                  10:00am to 3:30pm.</p>
 
-                 <p><strong>Sunday 15 July</strong><br />
+                 <p><strong>Sunday 21 July</strong><br />
                  Christian Harmony all-day singing (2010 edition).<br />
                  10:00am to 3:00pm.</p>
 
