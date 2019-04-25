@@ -61,6 +61,12 @@ $page = $_GET['page'];
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <link href="http://cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+        </style>
 </head>
 
 <body>
@@ -126,6 +132,22 @@ $page = $_GET['page'];
     	</div>
 	<!-- Right column -->
         <div class="col-lg-4 sidebar">
+
+            <!-- Begin Mailchimp Signup Form -->
+            <div id="mc_embed_signup">
+            <form action="https://bristolsacredharp.us20.list-manage.com/subscribe/post?u=4574caae2008c0299a220e2ed&amp;id=aab95755da" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+            <label for="mce-EMAIL">Get Bristol Sacred Harp News:</label>
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4574caae2008c0299a220e2ed_aab95755da" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            </div>
+            </form>
+            </div>
+
+            <!--End mc_embed_signup-->
+
             <!-- Facebook -->
             <div>
                 <p>Keep up with discussions in our <a href="https://www.facebook.com/groups/bristolsacredharp/">Facebook Group</a>.</p>
