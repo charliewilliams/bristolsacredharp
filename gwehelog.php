@@ -1,20 +1,16 @@
             <img src="/img/gwehelog-chapel.jpg" class="img-responsive" />
 
 		<hr />
-                <p>The 20th Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
-                 held on <strong>Sat 20</strong> and <strong>Sun 21 July 2019</strong>.</p>
+                <div class="alert alert-danger" role="alert">
+                  Sadly, the Gwehelog singing has been cancelled for 2022.
+                  We will sing again at Gwehelog on the third Sunday in July and the Saturday before in 2023.
+                </div>
+<!--
+                <p>The 21st Gwehelog Singing Weekend in Gwehelog, Usk will take the form of a double all-day singing,
+                held on <strong>Sat 15</strong> and <strong>Sun 16 July 2023</strong>.</p>
 
-                 <p><strong>Saturday 20 July</strong><br />
-                 Sacred Harp all-day singing (1991 edition).<br />
-                 10:00am to 3:30pm.</p>
-
-                 <p><strong>Sunday 21 July</strong><br />
-                 Christian Harmony all-day singing (2010 edition).<br />
-                 10:00am to 3:00pm.</p>
-
-                <p>Co-Chairs<br />
-                <strong>Bridget McVennon-Morgan</strong> and
-                <strong>Matthew Parkinson</strong></p>
+                <p>Chair<br />
+                <strong>Meg Winter</strong></p> -->
 
                 <h3>Venue</h3>
                 <address>
@@ -35,6 +31,7 @@
 
                 <h3>Previous minutes</h3>
                 <ul>
+                  <li><a href="http://fasola.org/minutes/search/?n=5988">20th Gwehelog Singing Weekend &ndash; 2019</a>. Chairs: Bridget McVennon-Morgan and Matthew Parkinson.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=5679">19th Gwehelog Singing Weekend &ndash; 2018</a> (<a href="http://www.christianharmony.org/harmony/minutes/2018minutes/Gwehelog2018.html">3rd Christian Harmony singing</a>). Chair: Alec Williams.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=5376">18th Gwehelog Singing Weekend &ndash; 2017</a> (<a href="http://www.christianharmony.org/harmony/minutes/2017minutes/Gwehelog2017.html">2nd Christian Harmony singing</a>). Chairs: Steve Brett and Ella Cumber.</li>
                   <li><a href="http://fasola.org/minutes/search/?n=5080">17th Gwehelog Singing Weekend &ndash; 2016</a>. Chairs: Leila Gamaz and Ellen Southern.</li>
