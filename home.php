@@ -7,9 +7,14 @@
                 tradition from the United States. It takes its name from the
                 <a href="http://en.wikipedia.org/wiki/Shape_note">shape note</a> book that we sing from.</p>
                 <h3>Sing with us</h3>
-                <p>We sing <strong>every Tuesday</strong> from 7&ndash;9pm at <strong>The Benjamin Perry Boathouse</strong>, Phoenix Wharf, Lower Guinea Street,
-                	Bristol BS1 6TJ. <a href="https://goo.gl/maps/ajycuowpbAu">[map]</a>
+                <p>We sing <strong>every Tuesday</strong> from 7&ndash;9pm. We are currently trying to secure a regular venue: check our calendar on the right or <a href="https://www.facebook.com/groups/bristolsacredharp/">Facebook</a> to find out where we are singing.
                 </p>
+
+                <p>We sing every <strong>third Sunday</strong> from 2&ndash;4pm at <a href="https://goo.gl/maps/cRSMgirtCPU9Ywk66">St Anne's Church Hall, Easton, BS5 6JN</a>.
+                </p>
+                <div class="alert alert-info" role="alert">
+                Singings are subject to our <a href="/files/BSH_Covid_policy-2.pdf">Covid policy (PDF)</a> and the venue requirements.
+                </div>
 
                 <p><strong>Everyone is welcome.</strong> We are not a choir: no-one is in charge, we don't rehearse,
                 and we don't perform. Everyone who attends sings, loudly and freely, for their own enjoyment.
@@ -30,7 +35,7 @@
                 <a href="http://originalsacredharp.com/ordering-the-sacred-harp/">the publishing company</a>;
                 shipping to the UK is subsidised so there is no extra cost.</p>
                 <p>To hear authentic old recordings of Sacred Harp, we recommend the
-                <a href="http://research.culturalequity.org/rc-b2/get-audio-ix.do?ix=recording&id=352&idType=genreId&sortBy=abc">1959 United Convention</a>
+                <a href="https://archive.culturalequity.org/field-work/southern-us-1959-and-1960/fyffe-959">1959 United Convention</a>
                 and the <a href="http://originalsacredharp.com/museum/national-convention/">1980 First National Convention</a>. The
                 <a href="http://londonsacredharp.bandcamp.com/album/7th-annual-london-all-day-singing-25-oct-2014">2014 London All-Day Singing</a>
                 is a good example of current UK singing.</p>
